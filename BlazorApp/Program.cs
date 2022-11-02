@@ -9,7 +9,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BlazorTestApp1
+namespace BlazorApp
 {
     public class Program
     {
